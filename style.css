@@ -1,0 +1,11 @@
+.logoBox {
+    background-color: rgb(237, 83, 17);
+}
+
+.parallax {
+    background-image: url("https://www.rosencentre.com/wp-content/themes/rosencentre/images/headerImage-rosenCentreHotel_2.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
